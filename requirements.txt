@@ -1,0 +1,8 @@
+torch>=2.3
+torchvision>=0.18
+torchmetrics>=1.4
+torch-fidelity>=0.3
+numpy
+pandas
+matplotlib
+scipy
